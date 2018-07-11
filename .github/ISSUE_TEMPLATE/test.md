@@ -1,1 +1,1 @@
-[Link](../../../../feature-request.md)
+[Link](../feature-request.md)
