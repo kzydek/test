@@ -1,1 +1,1 @@
-[Link](LICENSE)
+[Link](./feature-request.md)
